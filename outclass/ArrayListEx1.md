@@ -14,14 +14,14 @@ public class ArrayListEx1 {
 	}
 }
 ```
-(1)
+## (1)
 ```java
 ArrayList<String> aList = new ArrayList<String>();
 ```
 #### - ArrayList : 자바에서 자주 쓰는 가변 길이 배열
 #### - String은 이 리스트에 문자열만 저장하겠다는 뜻
 
-(2)
+## (2)
 ```java
 for (String item : aList) {...}
 ```
